@@ -6,7 +6,7 @@ const Card = ()=>{
         <div className = 'w-full'>
              <div className = "flex flex-col justify-center max-w-ms mx-auto bg-white shadow-xl rounded-xl p-5 drop-shadow-sm">
                 <div className="">
-                    <img src = "/WhatsApp Image 2021-12-09 at 09.04.11.jpeg" className = "w-32 mx-auto shadow-xl rounded-full drop-shadow-sm"/>
+                    <img src = "./WhatsApp Image 2021-12-09 at 09.04.11.jpeg" className = "w-32 mx-auto shadow-xl rounded-full drop-shadow-sm"/>
                 </div>
                 <div className = "text-center mt-5">
                     <p className="text-xl sm: text-2xl text-gray-900"> Shripati Vijayaraghavan </p>
